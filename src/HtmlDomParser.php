@@ -1,6 +1,6 @@
 <?php
 
-namespace Chuzzlik\HtmlDomParser;
+namespace chuzzlik\htmlparser;
 
 require 'simplehtmldom_2_0' . DIRECTORY_SEPARATOR . 'simple_html_dom.php';
 

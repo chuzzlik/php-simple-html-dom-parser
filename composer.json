@@ -9,6 +9,6 @@
         "ext-mbstring": "*"
     },
     "autoload": {
-        "psr-0": { "Chuzzlik\\HtmlDomParser": "" }
+        "psr-0": { "chuzzlik\\htmlparser": "" }
     }    
 }
